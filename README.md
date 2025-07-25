@@ -7,3 +7,4 @@ If there is a server in use, it is possible to work by using the URL from the in
 Despite a server is used, only the .JSON from the own localStorage can be changed and saved to a .JSON, so other users need the updated.JSON
 ------------
 ...coming soon => using this database with automatic storage of the .JSON on an server and a automatic load from this.
+..like my other repository named: "license-management"
